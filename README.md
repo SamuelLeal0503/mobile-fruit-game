@@ -51,3 +51,32 @@ Advanced mathematical operations
 - GitHub
 
 ## Project Structure
+
+
+
+app
+└── src
+└── main
+├── java
+│ └── com.example.myapplication
+│ ├── MainActivity
+│ ├── MainActivity2_Nivel1
+│ ├── MainActivity2_Nivel2
+│ ├── MainActivity2_Nivel3
+│ ├── MainActivity2_Nivel4
+│ ├── MainActivity2_Nivel5
+│ ├── MainActivity2_Nivel6
+│ ├── MainActivity2_Nivel7
+│ ├── MainActivity2_Nivel8
+│ ├── FirestoreHelper
+│ └── User
+│
+└── res
+├── drawable
+├── layout
+└── raw
+
+
+## Author
+
+Samuel Leal Murillo
