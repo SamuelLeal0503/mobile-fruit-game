@@ -1,5 +1,4 @@
 # \# Mobile Fruit Game 🍎🍓
-
 # 
 
 # \## Description
@@ -149,14 +148,7 @@ app
 └── raw
 
 
-
-
-
-
-
 \## Author
-
-
 
 Samuel Leal Murillo
 
