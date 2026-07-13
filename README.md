@@ -1,154 +1,53 @@
-# \# Mobile Fruit Game 🍎🍓
-# 
+# Mobile Fruit Game 🍎🍓
 
-# \## Description
+## Description
 
-# Mobile Fruit Game is an educational Android application designed to help children learn basic mathematical operations through an interactive game.
+Mobile Fruit Game is an educational Android application designed to help children practice mathematical operations through an interactive game.
 
-# 
+The player solves different mathematical exercises, earns points, and progresses through multiple difficulty levels while managing a limited number of lives.
 
-# The player solves mathematical exercises while collecting points and maintaining lives.
+## Features
 
-# 
+- Player registration
+- Score system
+- Lives system
+- Countdown timer
+- Sound effects and background music
+- Firebase Firestore score storage
+- Multiple mathematical difficulty levels
 
-# \## Features
+## Game Levels
 
-# 
+### Level 1
+Basic additions
 
-# \- Player registration
+### Level 2
+Intermediate additions
 
-# \- Score system
+### Level 3
+Subtractions
 
-# \- Record storage using Firebase Firestore
+### Level 4
+Addition and subtraction operations
 
-# \- Multiple mathematical levels
+### Level 5
+Mixed operations
 
-# \- Countdown timer
+### Level 6
+Basic multiplications
 
-# \- Lives system
+### Level 7
+Divisions
 
-# \- Sound effects and background music
+### Level 8
+Advanced mathematical operations
 
-# 
+## Technologies
 
-# \## Levels
+- Java
+- Android Studio
+- Firebase Firestore
+- Gradle
+- GitHub
 
-# 
-
-# \### Level 1
-
-# Basic additions
-
-# 
-
-# \### Level 2
-
-# Intermediate additions
-
-# 
-
-# \### Level 3
-
-# Subtractions
-
-# 
-
-# \### Level 4
-
-# Addition and subtraction combinations
-
-# 
-
-# \### Level 5
-
-# Mixed operations
-
-# 
-
-# \### Level 6
-
-# Basic multiplications
-
-# 
-
-# \### Level 7
-
-# Divisions
-
-# 
-
-# \### Level 8
-
-# Advanced operations
-
-# 
-
-# \## Technologies
-
-# 
-
-# \- Java
-
-# \- Android Studio
-
-# \- Firebase Firestore
-
-# \- SQLite
-
-# \- Gradle
-
-# 
-
-# \## Project Structure
-
-
-
-
-
-app
-
-└── src
-
-└── main
-
-├── java
-
-│ └── com.example.myapplication
-
-│ ├── MainActivity
-
-│ ├── MainActivity2\_Nivel1
-
-│ ├── MainActivity2\_Nivel2
-
-│ ├── MainActivity2\_Nivel3
-
-│ ├── MainActivity2\_Nivel4
-
-│ ├── MainActivity2\_Nivel5
-
-│ ├── MainActivity2\_Nivel6
-
-│ ├── MainActivity2\_Nivel7
-
-│ ├── MainActivity2\_Nivel8
-
-│ ├── FirestoreHelper
-
-│ └── User
-
-│
-
-└── res
-
-├── drawable
-
-├── layout
-
-└── raw
-
-
-\## Author
-
-Samuel Leal Murillo
-
+## Project Structure
